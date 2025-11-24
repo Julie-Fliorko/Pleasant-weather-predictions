@@ -1,5 +1,17 @@
-'Scripts/1.3-Gradient-Descent-for-Temperatures.ipynb'
-'Scripts/.ipynb_checkpoints/*'
-'Scripts/2. Gradient Descent.ipynb'__pycache__/
-*.ipynb_checkpoints/
+# macOS junk
 .DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore all notebooks inside Scripts
+Scripts/*.ipynb
+
+# (Optional) ignore all notebooks everywhere
+# *.ipynb
