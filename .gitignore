@@ -10,8 +10,9 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore all notebooks inside Scripts
-Scripts/*.ipynb
+# Ignore some notebooks inside Scripts
+Scripts/1.3-Gradient-Descent-for-Temperatures.ipynb
+Scripts/2. Gradient Descent.ipynb
 
 # (Optional) ignore all notebooks everywhere
 # *.ipynb
